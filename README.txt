@@ -4,7 +4,7 @@ Lab - 2 :: SQL - Stored Procedures and Cursors
 ROLL.NO : 2025202018
 ====================================
 
-GitHub Repo Link - https://github.com/CReativeRebe1/2025202018_lab2
+GitHub Repo Link - https://github.com/CReativeRebe1/SQL-Stored_Procedures_and_Cursors_lab2
 
 ====================================
 --------------------------------------------------
